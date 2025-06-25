@@ -204,8 +204,8 @@ p {
 @media (max-width: 1024px) and (min-width: 768px) {
 
   .container mt-4 img{
-    width: 100%;
-    height: auto;
+    max-width: 100%;
+    max-height: auto;
   }
   
   h1 {
@@ -241,8 +241,8 @@ p {
 @media (max-width: 767px) {
 
   .container mt-4 img{
-    width: 100%;
-    height: auto;
+    max-width: 100%;
+    max-height: auto;
   }
   
   h1 {
