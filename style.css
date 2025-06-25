@@ -205,7 +205,7 @@ p {
 
   .container mt-4 img{
     max-width: 100%;
-    max-height: auto;
+    height: auto;
   }
   
   h1 {
@@ -242,7 +242,7 @@ p {
 
   .container mt-4 img{
     max-width: 100%;
-    max-height: auto;
+    height: auto;
   }
   
   h1 {
