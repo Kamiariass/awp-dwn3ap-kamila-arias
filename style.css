@@ -202,6 +202,12 @@ p {
 
 /* =================== TABLET =================== */
 @media (max-width: 1024px) and (min-width: 768px) {
+
+  .container mt-4 img{
+    width: 100%;
+    height: auto;
+  }
+  
   h1 {
     font-size: 3.8rem;
   }
@@ -233,6 +239,12 @@ p {
 
 /* =================== MOBILE =================== */
 @media (max-width: 767px) {
+
+  .container mt-4 img{
+    width: 100%;
+    height: auto;
+  }
+  
   h1 {
     font-size: 1.8rem;
   }
