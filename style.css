@@ -207,6 +207,10 @@ p {
     max-width: 100%;
     height: auto;
   }
+
+  .container img.img-fluid {
+        height: auto;
+    }
   
   h1 {
     font-size: 3.8rem;
@@ -244,6 +248,10 @@ p {
     max-width: 100%;
     height: auto;
   }
+
+  .container img.img-fluid {
+        height: auto;
+    }
   
   h1 {
     font-size: 1.8rem;
